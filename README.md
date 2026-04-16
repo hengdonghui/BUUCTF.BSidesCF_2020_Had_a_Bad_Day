@@ -17,7 +17,7 @@
 
 访问靶机地址，页面显示两个按钮：
 
-![01](./01.jpg)
+<img width="1490" height="560" alt="01" src="https://github.com/user-attachments/assets/12aba0a7-3986-4c37-8c59-3a6d576a6e3e" />
 
 - **WOOFERS**（狗狗图片）
 - **MEOWERS**（猫咪图片）
